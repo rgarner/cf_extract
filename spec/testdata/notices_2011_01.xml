@@ -1,0 +1,3773 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FEED xmlns="http://www.w3.org/2001/XMLSchema">
+  <VERSION>1.0.0</VERSION>
+  <FEED_CREATION_DATETIME>
+    <DAY>10</DAY>
+    <MONTH>11</MONTH>
+    <YEAR>2011</YEAR>
+    <TIME>19:10</TIME>
+  </FEED_CREATION_DATETIME>
+  <FEED_PERIOD_COVERED>
+    <START_DATE>
+      <DAY>09</DAY>
+      <MONTH>01</MONTH>
+      <YEAR>2011</YEAR>
+    </START_DATE>
+    <END_DATE>
+      <DAY>31</DAY>
+      <MONTH>01</MONTH>
+      <YEAR>2011</YEAR>
+    </END_DATE>
+  </FEED_PERIOD_COVERED>
+  <FEED_TITLE>Monthly notices XML feed</FEED_TITLE>
+  <TOTAL_NUMBER_OF_NOTICES>24</TOTAL_NUMBER_OF_NOTICES>
+  <NOTICES>
+    <PRIOR_INFORMATION LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="1" CONTRACTS_FINDER_NOTICE_GROUP="Below-OJEU">
+      <FD_PRIOR_INFORMATION CTYPE="">
+        <AUTHORITY_PRIOR_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_PRIOR_INFORMATION>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION>Ministry of Justice (MoJ) Procurement - CMT N</ORGANISATION>
+              <ADDRESS>Unit 8,Fryersway</ADDRESS>
+              <TOWN>Ossett</TOWN>
+              <POSTAL_CODE>WF5 9TJ</POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT>Andrew Smith</CONTACT_POINT>
+              <PHONE>01924 205709</PHONE>
+              <E_MAIL>andy.smith@noms.gsi.gov.uk</E_MAIL>
+              <FAX>01924 205702</FAX>
+              <COUNTY>West Yorkshire</COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_PRIOR_INFORMATION>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=552</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_PRIOR_INFORMATION>
+          </NAME_ADDRESSES_CONTACT_PRIOR_INFORMATION>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </AUTHORITY_PRIOR_INFORMATION>
+        <OBJECT_SUPPLIES_SERVICES_PRIOR_INFORMATION>
+          <OBJECT_SUPPLY_SERVICE_PRIOR_INFORMATION>
+            <TITLE_CONTRACT>HMP Lindholme - Refurbished Bakery Equipment</TITLE_CONTRACT>
+            <TYPE_CONTRACT_PLACE_DELIVERY>
+              <LOCATION>
+                <p>Yorkshire and The Humber</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKE" />
+              <LAU CODE="" />
+            </TYPE_CONTRACT_PLACE_DELIVERY>
+            <FRAMEWORK_AGREEMENT VALUE="NO" />
+            <QUANTITY_SCOPE_PRIOR_INFORMATION>
+              <TOTAL_QUANTITY_OR_SCOPE>
+            Not Available
+          </TOTAL_QUANTITY_OR_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>15000.00</LOW_VALUE>
+                  <HIGH_VALUE>22000.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </QUANTITY_SCOPE_PRIOR_INFORMATION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="31000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+            <PERIOD_WORK_DATE_STARTING />
+            <PROCEDURE_DATE_STARTING>
+              <DAY>31</DAY>
+              <MONTH>1</MONTH>
+              <YEAR>2011</YEAR>
+              <PROCEDURE_DATE_STARTING_FREE_TEXT>Closing date for reponses to the Request for Proposal</PROCEDURE_DATE_STARTING_FREE_TEXT>
+            </PROCEDURE_DATE_STARTING>
+          </OBJECT_SUPPLY_SERVICE_PRIOR_INFORMATION>
+          <IS_FLAGGED_AS_SME_FRIENDLY>YES</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Not selected</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </OBJECT_SUPPLIES_SERVICES_PRIOR_INFORMATION>
+        <OTH_INFO_PRIOR_INFORMATION>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: This pocurement exercise will be carried out via the Ministry of Justice eSourcing portal Emptoris. It will require potential suppliers to respond to a Request for Proposal.</ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </OTH_INFO_PRIOR_INFORMATION>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>HMP Lindholme - Bakery Equipment - Specification</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1270&amp;fileId=F5C8F0C3-B7E9-407C-A8C6-75DD6115F520</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+      </FD_PRIOR_INFORMATION>
+      <SYSTEM>
+        <NOTICE_ID>552</NOTICE_ID>
+        <NOTICE_GROUP>Below-OJEU</NOTICE_GROUP>
+        <NOTICE_TYPE>Speculative</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Below OJEU: Tentative</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Closed</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Live</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>14/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>14/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Ministry of Justice (MoJ) Procurement - CMT N</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>35</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <PROCEDURE_DATE_STARTING_FOR></PROCEDURE_DATE_STARTING_FOR>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </PRIOR_INFORMATION>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>Group.Commercial@hmtreasury.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=569</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>Award of ICT contract to Descisys for the supply of support and maintenance services for the COINS spending data system – Interim Agreement – Contract awarded to a Small &amp;amp; Medium Sized Enterprise (SME)
+</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION>Award of ICT contract to Descisys for the supply of support and maintenance services for the COINS spending data system – Interim Agreement – Contract awarded to a Small &amp;amp; Medium Sized Enterprise (SME)</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="72000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>24250.00</LOW_VALUE>
+                  <HIGH_VALUE>24250.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <INTERVAL_DATE>
+              <START_DATE>
+                <DAY>29</DAY>
+                <MONTH>07</MONTH>
+                <YEAR>2010</YEAR>
+              </START_DATE>
+              <END_DATE>
+                <DAY>30</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2010</YEAR>
+              </END_DATE>
+            </INTERVAL_DATE>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>HMT</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>30</DAY>
+              <MONTH>9</MONTH>
+              <YEAR>2010</YEAR>
+              <TIME>00:00</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Other</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS />
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>569</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Archived</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>15/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>14/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HM Treasury</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>159</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>tenders@coi.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=385</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Press Cuttings Framework</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: Various sites across Great Britain</p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>The Central Office of Information (COI) is to introduce a pan-government framework to purchase and manage the delivery of press cuttings to central Government Departments and the wider Public Sector hereafter referred to as Public Bodies. COI estimates
+ that by introducing a single supplier approach the Government can make significant savings on current spend by gaining the benefit of HM Government’s economy-of-scale and reducing unnecessary duplication. The proposed service will operate 364 days a year (Christmas
+ Day being the only day that services are not required) and be accessible to all Public Bodies who choose to participate. This facility will operate via an online portal that will provide Public Bodies with easy access to relevant articles from the national,
+ regional and weekend newspapers that are relevant to their requirements. A hard copy press cutting service will also be provided. The successful contractor will be expected to provide both services.</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="79000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>48</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>4 000 000.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>FR/10/009</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Establishing a new framework agreement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Press Cuttings Framework</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1031&amp;fileId=AE3074BB-5F3C-4D50-94BB-B1C48CB52E2E</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Following legal advice we are withdrawing this notice and will re-issue with a revised ITT.</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>385</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Retracted</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>19/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>24/12/2010</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Central Office of Information</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>170</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>proc-sysadmin@environment-agency.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=603</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>River Evenlode Projects</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Creation of Backwater and connect to main river</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="71500000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>1</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>30 000.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>EA - 25456 - PO</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Procurement of a new requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Works Summary for the Creation of Backwater and connect to main river</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1353&amp;fileId=95A94024-1BDA-42DE-9D9B-806F8A2C3AA3</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Project Brief </DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1354&amp;fileId=E7645859-BBC9-4EEB-BECB-F6BCD7D96650</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Project Brief </DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1355&amp;fileId=AAC703CF-EC2E-47CA-B3AD-E82425752E66</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Project Brief </DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1356&amp;fileId=ED3ED741-7C3B-45ED-B162-F1939CD00977</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>To Award the Contract and attach award documents</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>603</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>19/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>19/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Environment Agency </BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>214</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>proc-sysadmin@environment-agency.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=518</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Watercourse and Riverbank Maintenance </TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Watercourse and Riverbank Maintenance </SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="71500000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>2</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>80 000.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>EA - 25534 - PO</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Competition as part of an existing framework agreement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Invitation To Tender, Acknowledgement of Tender and Works Summary</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1219&amp;fileId=089F98E7-C162-4C90-AB8E-EF6C2CB8CC3B</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>To award the contract and attach contract documents</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>518</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>19/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>12/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Environment Agency </BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>214</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>huw.pearce@homeoffice.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=166</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>CBRN Handbook</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>3</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>25 000.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>CBRN Handbook</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Procurement of a new requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Response Template</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=491&amp;fileId=D4B358B5-D319-4E29-9142-12237E2BFA8B</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Contained a protectively marked document.</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>166</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Retracted</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>21/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>18/11/2010</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Business Link</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>2</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>GroupCommercial@hmtreasury.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=429</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>Application Software maintenance and support, and consultancy for the Combined On-line Information System (COINS) - Full Contract</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION>Application Software maintenance and support, and consultancy for the Combined On-line Information System (COINS)</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="72000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>1430750.00</LOW_VALUE>
+                  <HIGH_VALUE>1430750.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <INTERVAL_DATE>
+              <START_DATE>
+                <DAY>30</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2010</YEAR>
+              </START_DATE>
+              <END_DATE>
+                <DAY>28</DAY>
+                <MONTH>07</MONTH>
+                <YEAR>2013</YEAR>
+              </END_DATE>
+            </INTERVAL_DATE>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>HMT/Descisys</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>28</DAY>
+              <MONTH>7</MONTH>
+              <YEAR>2013</YEAR>
+              <TIME>00:00</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Other</DESCRIPTION>
+            <OTHER_DESCRIPTION>Single Tender </OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS />
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>contract not attached</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>429</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>21/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>14/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HM Treasury</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>159</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>GroupCommercial@hmtreasury.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=467</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>Award of a contract to Specialist Computer Centres for the provision of IT products and services
+</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION>Award of a contract to Specialist Computer Centres for the provision of IT products and services
+</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="72000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>0.00</LOW_VALUE>
+                  <HIGH_VALUE>0.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <INTERVAL_DATE>
+              <START_DATE>
+                <DAY>10</DAY>
+                <MONTH>08</MONTH>
+                <YEAR>2010</YEAR>
+              </START_DATE>
+              <END_DATE>
+                <DAY>15</DAY>
+                <MONTH>03</MONTH>
+                <YEAR>2014</YEAR>
+              </END_DATE>
+            </INTERVAL_DATE>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>HMT/SPECIALIST COMPUTER CENTRES PLC</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>15</DAY>
+              <MONTH>3</MONTH>
+              <YEAR>2014</YEAR>
+              <TIME>00:00</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Re-competition of an existing requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS />
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>to attach contract</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>467</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>21/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>14/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HM Treasury</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>159</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>CTLB-ComPPP2b3@mod.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=653</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>The Delivery of an Emergency Response Driving Course</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Devon CC</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKK43" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION>The Delivery of an Emergency Response Driving Course</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="80000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>18000.00</LOW_VALUE>
+                  <HIGH_VALUE>18000.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <INTERVAL_DATE>
+              <START_DATE>
+                <DAY>10</DAY>
+                <MONTH>01</MONTH>
+                <YEAR>2011</YEAR>
+              </START_DATE>
+              <END_DATE>
+                <DAY>21</DAY>
+                <MONTH>01</MONTH>
+                <YEAR>2011</YEAR>
+              </END_DATE>
+            </INTERVAL_DATE>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>CTLBC/1595</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>21</DAY>
+              <MONTH>1</MONTH>
+              <YEAR>2011</YEAR>
+              <TIME>00:00</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Re-competition of an existing requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CTLBC/1595</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1445&amp;fileId=2C6A5F21-3394-4AEA-A1B1-46F2B363D587</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CTLBC/1595</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1446&amp;fileId=2C6A5F21-3394-4AEA-A1B1-46F2B363D587</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>653</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Archived</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>22/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>21/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Ministry of Defence - Centre TLB</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>20</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>GroupCommercial@hmtreasury.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=659</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>Application Software maintenance and support, and consultancy for the Combined On-line Information System (COINS) - Full Contract</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION>Application Software maintenance and support, and consultancy for the Combined On-line Information System (COINS)</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="72000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>1430750.00</LOW_VALUE>
+                  <HIGH_VALUE>1430750.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <INTERVAL_DATE>
+              <START_DATE>
+                <DAY>30</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2010</YEAR>
+              </START_DATE>
+              <END_DATE>
+                <DAY>28</DAY>
+                <MONTH>07</MONTH>
+                <YEAR>2013</YEAR>
+              </END_DATE>
+            </INTERVAL_DATE>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>HMT/Descisys</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>28</DAY>
+              <MONTH>7</MONTH>
+              <YEAR>2013</YEAR>
+              <TIME>00:00</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Other</DESCRIPTION>
+            <OTHER_DESCRIPTION>Single Tender </OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS />
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>contract not attached</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>659</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>24/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>21/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID>429</PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID>429</ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HM Treasury</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>159</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>printcontractmgtcommercial@hmce.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=715</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>High Volume Copiers - Solicitors Office - Bush House </TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Inner London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI1" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Competition as part of an existing framework agreement </SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="30120000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL>
+                <CPV_CODE CODE="30121000" />
+              </CPV_ADDITIONAL>
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>36</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>RM 450 (2)</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Competition as part of an existing framework agreement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS />
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Further Redactions required</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>715</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Retracted</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>25/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>25/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HMRC CD</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>125</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>printcontractmgtcommercial@hmce.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=438</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>High Volume Photocopier Procurement - Solicitors Office</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Salford</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKD31" />
+              <LAU CODE="00BR" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Competition as part of an existing framework agreement </SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="30121100" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>36</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>RM450</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Procurement of a new requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Briefing for High Volume Photocopier </DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1162&amp;fileId=25D73345-8D05-4517-9A50-68884452E687</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>High Volume Photocopier Procurement - External Summary</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1163&amp;fileId=0C0ECD4B-9948-447B-BBB1-B8A22D039EED</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Further Redactions Required</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>438</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Retracted</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>25/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>18/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HMRC CD</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>125</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>desnbcd-commercialcb1e@mod.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=722</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Provision of Ship to Shore Brows</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Plymouth</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKK41" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Provision of 6 in number Ship to Shore Brows</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="44000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>2</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>100 000.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>NBCD1E/662656</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Procurement of a new requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Provision of Ship to Shore Brows (Invitation to Tender)</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1583&amp;fileId=DAFDDA31-F6C6-474B-99D3-6F0656C9A24F</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Contract now awarded</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>722</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>25/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>25/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Ministry of Defence - Defence Equipment and Support - Submarines</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>17</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>craig.marriott@education.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=709</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Network supplies</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Sheffield</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKE32" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>4 Cisco Catalyst 3750-X Series Switches with IP Base. (WS-C3750X-48P-S) 4 3KX-NM-1G 4 GLC-T (1000BASE-T SFP transceiver module for copper connections) 2 GLC-LH-SM (Gigabit Ethernet SFP, LC connector LX/LH transceiver)
+</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="30237200" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <DAYS>1</DAYS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>12</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Competition as part of an existing framework agreement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Network Supplies</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1531&amp;fileId=E6572A0C-A69E-4689-A3DC-B6E7E40423D9</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>709</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Archived</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>25/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Department for Education</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>164</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>GroupCommercial@hmtreasury.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=677</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>Application Software maintenance and support, and consultancy for the Combined On-line Information System (COINS) - Full Contract</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION>Application Software maintenance and support, and consultancy for the Combined On-line Information System (COINS)</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="72000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>1430750.00</LOW_VALUE>
+                  <HIGH_VALUE>1430750.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <INTERVAL_DATE>
+              <START_DATE>
+                <DAY>30</DAY>
+                <MONTH>09</MONTH>
+                <YEAR>2010</YEAR>
+              </START_DATE>
+              <END_DATE>
+                <DAY>28</DAY>
+                <MONTH>07</MONTH>
+                <YEAR>2013</YEAR>
+              </END_DATE>
+            </INTERVAL_DATE>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>HMT/Descisys</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>28</DAY>
+              <MONTH>7</MONTH>
+              <YEAR>2013</YEAR>
+              <TIME>00:00</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Other</DESCRIPTION>
+            <OTHER_DESCRIPTION>Single Tender </OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS />
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>unable to attach contract; link not working.</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>677</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Retracted</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>24/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID>659</PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID>429</ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HM Treasury</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>159</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>groupcommercial@hmtreasury.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=773</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>HMTtest</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Inner London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI1" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION>HMT test</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="72000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>10.00</LOW_VALUE>
+                  <HIGH_VALUE>10.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>10</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>HMTtest</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>27</DAY>
+              <MONTH>11</MONTH>
+              <YEAR>2011</YEAR>
+              <TIME>15:27</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Competition as part of an existing framework agreement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>HMT test</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1746&amp;fileId=34B6BC29-9B47-4101-80EE-9FC1002977EE</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>test contract</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>773</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Retracted</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>27/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HM Treasury</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>159</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="90" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>group.commercial@hmtreasury.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=777</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>HMT test 2</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Inner London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI1" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="PUBLIC_CONTRACT" />
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="75000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>10.00</LOW_VALUE>
+                  <HIGH_VALUE>10.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>1</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL>
+              <LOWEST_PRICE />
+            </AWARD_CRITERIA_DETAIL>
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>HMT test 2</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>27</DAY>
+              <MONTH>2</MONTH>
+              <YEAR>2011</YEAR>
+              <TIME>15:51</TIME>
+              <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Other</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS />
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>test only. URL link not working...</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>777</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcContract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Contract Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Retracted</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>27/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>HM Treasury</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>159</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>eep@cabinet-office.x.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=584</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Civil Service People Survey 2011-2013</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Delivery of the Civil Service People Survey 2011-2013</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="79900000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>36</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>CO/004</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Competition as part of an existing framework agreement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1324&amp;fileId=71458131-F670-40A9-B474-ACB6F6D1A53B</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex B Methodology</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1325&amp;fileId=D82DE10D-77C5-451E-BDCD-8404B81A5DE4</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex A Scope</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1326&amp;fileId=8D2DEBB3-75E2-4BB0-A7B3-C553B6510BC6</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex C Project Management</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1327&amp;fileId=28A96145-95BB-43B7-928F-5A7EA36FB10F</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex D IT Requirements</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1328&amp;fileId=62F7A451-BE77-44EF-A035-5F90C19C4434</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex E Data Handling Clauses</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1329&amp;fileId=A82A4D7F-8F1C-495E-A17B-DCB854C5BEE6</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex F Cost Guidance</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1330&amp;fileId=08820949-EB47-4413-8DD2-FF87AE4C138A</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex F2 Pricing Spreadsheet</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1331&amp;fileId=191C79B8-50EF-4C07-A521-24E23AA75726</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Annex G Evaluation Criteria</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1332&amp;fileId=BBCAC006-CB72-438F-BF51-11B087F1C609</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CSPS - ITQ - Specification</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1333&amp;fileId=A297CBC3-760C-4F30-B227-C9AC50F68C07</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Wish to amend some of the information</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>584</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>14/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Cabinet Office</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>129</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>supplyenquiries@cabinet-office.x.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=582</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Provision of Service to Track, Measure and Report Greenhouse Gas Emissions (GHG) and Energy Efficiency</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>The Cabinet Office intends to identify a service provider that can supply Central Government Departments and the wider public sector with a mechanism to measure and report the greehouse gas emissions and energy efficiency of its key suppliers.</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="73210000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL>
+                <CPV_CODE CODE="73300000" />
+              </CPV_ADDITIONAL>
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>36</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>CO/003</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Procurement of a new requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>GHG Tender - Contract Notice</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1320&amp;fileId=504029CD-B48F-46F4-8F24-278F9B4E20C4</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>GHG Tender - PQQ</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1321&amp;fileId=BA88FB8D-A702-4DD1-974C-094E29D1D750</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>GHG Tender - Specification</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1322&amp;fileId=3CC538C1-9227-480D-B4C5-E6A63E0EAB2C</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>GHG Tender - Evaluation Criteria</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1323&amp;fileId=2B698178-630E-4787-AE39-B876A5FE7787</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Wish to amend information</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>582</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>14/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Cabinet Office</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>129</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>supplyenquiries@cabinet-office.x.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=581</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Civil Society Sector Grant Fund Administration - Transition Fund</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Transition Fund: short-term grants to allow civil society organisations to fully engage in the Big Society, by providing time to re-model, diversify funding streams, change their businesses and to continue providing frontline services.</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="75100000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL>
+                <CPV_CODE CODE="66170000" />
+              </CPV_ADDITIONAL>
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>19</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>CO/002</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Competition as part of an existing framework agreement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Transition Fund - ITQ covering letter</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1317&amp;fileId=7971D3BA-C087-48CC-9915-66DF825DABA4</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Transition Fund - Specification</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1318&amp;fileId=EF5AB413-CA1D-4B1B-ACB9-5909DAA1AD4A</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Transition Fund - ITQ Evaluation Matrix</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1319&amp;fileId=DE49DED1-1BCC-4DC2-9C7E-2D69BE754A28</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Wish to amend this information</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>581</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>14/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Cabinet Office</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>129</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>communityorganisersprogramme@cabinet-office.x.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=389</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>National Partner for the Community Organisers Programme</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: This contract is to be carried out in England only.</p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>The provision of a National Partner for the Community Organisers Programme</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="75200000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL>
+                <CPV_CODE CODE="80510000" />
+                <CPV_CODE CODE="75130000" />
+                <CPV_CODE CODE="75100000" />
+              </CPV_ADDITIONAL>
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>48</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>.0100</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>CO/001</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Procurement of a new requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Provision of a National Partner for the Community Organisers Programme - Contract Notice</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1032&amp;fileId=34AB74DF-4587-45CE-BD45-2EABB0C1D9D0</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Provision of a National Partner for the Community Organisers Programme - ITT Covering Letter</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1033&amp;fileId=F7BA513B-862B-438F-9D9A-ADCF738B0A99</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Provision of a National Partner for the Community Organisers Programme - Specification</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1034&amp;fileId=6841E08F-52D0-4EF1-848F-059234088092</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Provision of a National Partner for the Community Organisers Programme - Evaluation Criteria</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1035&amp;fileId=E68F34EC-40A7-4531-A2AE-1E3F3596071F</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Provision of a National Partner for the Community Organisers Programme - Terms and Conditions of Contract</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1036&amp;fileId=0390F60A-4803-4AEC-9309-62F31076F6D6</DOCUMENT_URL>
+          </DOCUMENT>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>Provision of a National Partner for the Community Organisers Programme - Declaration of Offer</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1037&amp;fileId=455C0DB6-96CF-42A0-BE1A-C0E831719750</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Wish to amend the information</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>389</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>27/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>30/12/2010</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Cabinet Office</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>129</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="3" CONTRACTS_FINDER_NOTICE_GROUP="Below-OJEU">
+      <FD_CONTRACT_AWARD CTYPE="SERVICES">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION>Central Office of Information</ORGANISATION>
+              <ADDRESS>Hercules House,Hercules Road</ADDRESS>
+              <TOWN>London</TOWN>
+              <POSTAL_CODE>SE1 7DU</POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT>David Kershaw</CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>tenders@coi.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY>Greater London</COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=418</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Oracle licenses and support</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="SERVICES" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>United Kingdom</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Oracle licenses and support. See - http://www.coi.gov.uk/documents/transparency/ict/emea-quote-redacted.rtf</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="72200000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>12</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>25 460.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>109275</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Not selected</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT>
+          <ITEM>1</ITEM>
+          <CONTRACT_NUMBER>109275</CONTRACT_NUMBER>
+          <CONTRACT_AWARD_DATE>
+            <DAY>29</DAY>
+            <MONTH>11</MONTH>
+            <YEAR>2010</YEAR>
+            <YEAR>2010</YEAR>
+          </CONTRACT_AWARD_DATE>
+          <ECONOMIC_OPERATOR_NAME_ADDRESS>
+            <CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+              <ORGANISATION>Oracle</ORGANISATION>
+            </CONTACT_DATA_WITHOUT_RESPONSIBLE_NAME>
+            <ADDRESS>Oracle Parkway,Thames Valley Park</ADDRESS>
+            <TOWN>Reading</TOWN>
+            <POSTAL_CODE>RG6 1RA</POSTAL_CODE>
+            <EMAIL></EMAIL>
+            <PHONE></PHONE>
+            <URL></URL>
+            <FAX></FAX>
+            <COUNTY></COUNTY>
+            <CONTACT_POINT></CONTACT_POINT>
+          </ECONOMIC_OPERATOR_NAME_ADDRESS>
+          <CONTRACT_VALUE_INFORMATION>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>25 460.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </CONTRACT_VALUE_INFORMATION>
+          <MORE_INFORMATION_TO_SUBCONTRACTED>
+            <NO_CONTRACT_LIKELY_SUB_CONTRACTED />
+          </MORE_INFORMATION_TO_SUBCONTRACTED>
+          <IS_AWARDED_TO_SME>No</IS_AWARDED_TO_SME>
+        </AWARD_OF_CONTRACT>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_YES></RELATES_TO_EU_PROJECT_YES>
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS />
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>418</NOTICE_ID>
+        <NOTICE_GROUP>Below-OJEU</NOTICE_GROUP>
+        <NOTICE_TYPE>ContractAward</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Below OJEU: Contract Award</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Archived</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>28/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>06/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Central Office of Information</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>170</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+    <CONTRACT LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="2" CONTRACTS_FINDER_NOTICE_GROUP="Below-OJEU">
+      <FD_CONTRACT CTYPE="SERVICES">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION>Ministry of Justice (MoJ) Procurement - CMT N</ORGANISATION>
+              <ADDRESS>Unit 8/9 Fryersway,Silkwood Park,Ossett</ADDRESS>
+              <TOWN>Wakefield</TOWN>
+              <POSTAL_CODE>WF5 9TJ</POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT>Faye Cunningham</CONTACT_POINT>
+              <PHONE>01924 205707</PHONE>
+              <E_MAIL>rpu.north@noms.gsi.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY>West Yorkshire</COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=763</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT>
+          </NAME_ADDRESSES_CONTACT_CONTRACT>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION>
+          <DESCRIPTION_CONTRACT_INFORMATION>
+            <TITLE_CONTRACT>CPD Elective On Commissioning</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION>
+              <TYPE_CONTRACT VALUE="SERVICES" />
+            </TYPE_CONTRACT_LOCATION>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>London</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKI" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <NOTICE_INVOLVES VALUE="ESTABLISHMENT_FRAMEWORK_AGREEMENT" />
+            <F02_FRAMEWORK>
+              <SINGLE_OPERATOR />
+              <DURATION_FRAMEWORK_YEAR>1</DURATION_FRAMEWORK_YEAR>
+              <TOTAL_ESTIMATED>
+                <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                  <RANGE_VALUE_COST>
+                    <LOW_VALUE>10000.00</LOW_VALUE>
+                    <HIGH_VALUE>40000.00</HIGH_VALUE>
+                  </RANGE_VALUE_COST>
+                </COSTS_RANGE_AND_CURRENCY>
+              </TOTAL_ESTIMATED>
+            </F02_FRAMEWORK>
+            <SHORT_CONTRACT_DESCRIPTION>Delivery of CPD elective on commissioning for NOMS. </SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="80000000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_CONTRACT_INFORMATION>
+          <QUANTITY_SCOPE>
+            <NATURE_QUANTITY_SCOPE>
+              <COSTS_RANGE_AND_CURRENCY CURRENCY="GBP">
+                <RANGE_VALUE_COST>
+                  <LOW_VALUE>10000.00</LOW_VALUE>
+                  <HIGH_VALUE>40000.00</HIGH_VALUE>
+                </RANGE_VALUE_COST>
+              </COSTS_RANGE_AND_CURRENCY>
+            </NATURE_QUANTITY_SCOPE>
+            <NO_OPTIONS />
+          </QUANTITY_SCOPE>
+          <PERIOD_WORK_DATE_STARTING>
+            <DAYS>365</DAYS>
+          </PERIOD_WORK_DATE_STARTING>
+        </OBJECT_CONTRACT_INFORMATION>
+        <PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+          <TYPE_OF_PROCEDURE>
+            <TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+              <PT_OPEN />
+            </TYPE_OF_PROCEDURE_DETAIL_FOR_CONTRACT_NOTICE>
+          </TYPE_OF_PROCEDURE>
+          <AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL />
+          </AWARD_CRITERIA_CONTRACT_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+            <FILE_REFERENCE_NUMBER>1075-1-Professional Services-N-RFP</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F2 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F2>
+            <RECEIPT_LIMIT_DATE>
+              <DAY>31</DAY>
+              <MONTH>1</MONTH>
+              <YEAR>2011</YEAR>
+              <TIME>00:00</TIME>
+              <RECEIPT_LIMIT_DATE_FOR>Suppliers on MoJ leadership and talant development framework agreement</RECEIPT_LIMIT_DATE_FOR>
+            </RECEIPT_LIMIT_DATE>
+            <LANGUAGE>
+              <LANGUAGE_EC VALUE="EN" />
+            </LANGUAGE>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_NOTICE>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Not selected</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_NOTICE>
+        <COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+          <NO_RECURRENT_PROCUREMENT />
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: This is not an open tender opportunity</ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_NOTICE>
+        <DOCUMENTS>
+          <DOCUMENT>
+            <DOCUMENT_TITLE>CPD Elective on Commissioning</DOCUMENT_TITLE>
+            <DOCUMENT_URL>http://www.contractsfinder.businesslink.gov.uk/DocumentDownloadHandler.ashx?noticeDocumentId=1716&amp;fileId=825BFE93-5DCD-4639-A35C-557E3A0E1E21</DOCUMENT_URL>
+          </DOCUMENT>
+        </DOCUMENTS>
+      </FD_CONTRACT>
+      <SYSTEM>
+        <NOTICE_ID>763</NOTICE_ID>
+        <NOTICE_GROUP>Below-OJEU</NOTICE_GROUP>
+        <NOTICE_TYPE>Contract</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Below OJEU: Contract</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Closed</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>Archived</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>31/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>27/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Ministry of Justice (MoJ) Procurement - CMT N</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>35</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <RECEIPT_LIMIT_DATE_FOR></RECEIPT_LIMIT_DATE_FOR>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT>
+    <CONTRACT_AWARD LG="EN" CATEGORY="ORIGINAL" VERSION="R2.0.7.S03" CONTRACTS_FINDER_VERSION="1.0" FORM="91" CONTRACTS_FINDER_NOTICE_GROUP="Trans in Proc">
+      <FD_CONTRACT_AWARD CTYPE="">
+        <CONTRACTING_AUTHORITY_INFORMATION>
+          <NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+            <CA_CE_CONCESSIONAIRE_PROFILE>
+              <ORGANISATION></ORGANISATION>
+              <ADDRESS></ADDRESS>
+              <TOWN></TOWN>
+              <POSTAL_CODE></POSTAL_CODE>
+              <COUNTRY VALUE="" />
+              <CONTACT_POINT></CONTACT_POINT>
+              <PHONE></PHONE>
+              <E_MAIL>carolyn.stoppard@capitalforenterprise.gov.uk</E_MAIL>
+              <FAX></FAX>
+              <COUNTY></COUNTY>
+            </CA_CE_CONCESSIONAIRE_PROFILE>
+            <INTERNET_ADDRESSES_CONTRACT_AWARD>
+              <URL_GENERAL>http://www.contractsfinder.businesslink.gov.uk/Common/View%20Notice.aspx?NoticeId=756</URL_GENERAL>
+              <URL_BUYER></URL_BUYER>
+            </INTERNET_ADDRESSES_CONTRACT_AWARD>
+          </NAME_ADDRESSES_CONTACT_CONTRACT_AWARD>
+          <TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+            <TYPE_AND_ACTIVITIES>
+              <TYPE_OF_CONTRACTING_AUTHORITY_OTHER VALUE="PUBLIC" />
+            </TYPE_AND_ACTIVITIES>
+            <PURCHASING_ON_BEHALF VALUE="NO" />
+          </TYPE_AND_ACTIVITIES_AND_PURCHASING_ON_BEHALF>
+        </CONTRACTING_AUTHORITY_INFORMATION>
+        <OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+          <DESCRIPTION_AWARD_NOTICE_INFORMATION>
+            <TITLE_CONTRACT>Procurement of Premium Collection Agency Services in support of Government Small Business Loan Guaranatee Programmes for the period 2011- 2015</TITLE_CONTRACT>
+            <TYPE_CONTRACT_LOCATION_W_PUB>
+              <TYPE_CONTRACT VALUE="" />
+            </TYPE_CONTRACT_LOCATION_W_PUB>
+            <LOCATION_NUTS>
+              <LOCATION>
+                <p>Sheffield</p>
+                <p>
+              Additional Information: </p>
+              </LOCATION>
+              <NUTS CODE="UKE32" />
+              <LAU CODE="" />
+            </LOCATION_NUTS>
+            <SHORT_CONTRACT_DESCRIPTION>Operate the core direct debit process and provide relevant information on collections made to Capital for Enterprise Ltd (CfEL). Follow up failed collections by providing a monthly report to affected Lenders. Bank a small number of cheque payments submitted
+ by Lenders to make up failed collections. Assist CfEL in resolving any ad hoc queries raised by Lenders in connection with premium collections. Contribute to continuous improvement of the premium collection process.
+</SHORT_CONTRACT_DESCRIPTION>
+            <CPV>
+              <CPV_MAIN>
+                <CPV_CODE CODE="98390000" />
+              </CPV_MAIN>
+              <CPV_ADDITIONAL />
+            </CPV>
+          </DESCRIPTION_AWARD_NOTICE_INFORMATION>
+          <PERIOD_WORK_DATE_STARTING>
+            <MONTHS>36</MONTHS>
+          </PERIOD_WORK_DATE_STARTING>
+          <TOTAL_FINAL_VALUE>
+            <COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE CURRENCY="GBP">
+              <VALUE_COST>360 000.0000</VALUE_COST>
+            </COSTS_RANGE_AND_CURRENCY_WITH_VAT_RATE>
+          </TOTAL_FINAL_VALUE>
+        </OBJECT_CONTRACT_INFORMATION_CONTRACT_AWARD_NOTICE>
+        <PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+          <TYPE_OF_PROCEDURE_DEF>
+            <PT_OPEN />
+          </TYPE_OF_PROCEDURE_DEF>
+          <AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+            <AWARD_CRITERIA_DETAIL_F03>
+              <MOST_ECONOMICALLY_ADVANTAGEOUS_TENDER_SHORT />
+            </AWARD_CRITERIA_DETAIL_F03>
+          </AWARD_CRITERIA_CONTRACT_AWARD_NOTICE_INFORMATION>
+          <ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+            <FILE_REFERENCE_NUMBER>PCA Contract</FILE_REFERENCE_NUMBER>
+            <PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+              <NO_PREVIOUS_PUBLICATION_EXISTS_F3 />
+            </PREVIOUS_PUBLICATION_INFORMATION_NOTICE_F3>
+          </ADMINISTRATIVE_INFORMATION_CONTRACT_AWARD>
+          <IS_FLAGGED_AS_SME_FRIENDLY>NO</IS_FLAGGED_AS_SME_FRIENDLY>
+          <NATURE_OF_PROCUREMENT>
+            <DESCRIPTION>Re-competition of an existing requirement</DESCRIPTION>
+            <OTHER_DESCRIPTION></OTHER_DESCRIPTION>
+          </NATURE_OF_PROCUREMENT>
+        </PROCEDURE_DEFINITION_CONTRACT_AWARD_NOTICE>
+        <AWARD_OF_CONTRACT />
+        <COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+          <RELATES_TO_EU_PROJECT_NO />
+          <ADDITIONAL_INFORMATION>
+            How to Apply: </ADDITIONAL_INFORMATION>
+          <NOTICE_DISPATCH_DATE>
+            <DAY></DAY>
+            <MONTH></MONTH>
+            <YEAR></YEAR>
+          </NOTICE_DISPATCH_DATE>
+        </COMPLEMENTARY_INFORMATION_CONTRACT_AWARD>
+        <DOCUMENTS />
+        <REASON_FOR_REPLACEMENT_OR_RETRACTION>Errors with attachments.</REASON_FOR_REPLACEMENT_OR_RETRACTION>
+      </FD_CONTRACT_AWARD>
+      <SYSTEM>
+        <NOTICE_ID>756</NOTICE_ID>
+        <NOTICE_GROUP>Trans in Proc</NOTICE_GROUP>
+        <NOTICE_TYPE>TransInProcTender</NOTICE_TYPE>
+        <NOTICE_TYPE_FRIENDLY_NAME>Published Tender Doc Set</NOTICE_TYPE_FRIENDLY_NAME>
+        <NOTICE_STATE>Published</NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE>PendingReplacement</SYSTEM_NOTICE_STATE>
+        <SYSTEM_NOTICE_STATE_CHANGE_DATE>31/01/2011</SYSTEM_NOTICE_STATE_CHANGE_DATE>
+        <SYSTEM_PUBLISHED_DATE>27/01/2011</SYSTEM_PUBLISHED_DATE>
+        <PARENT_NOTICE_ID></PARENT_NOTICE_ID>
+        <ROOT_NOTICE_ID></ROOT_NOTICE_ID>
+        <BUYER_GROUP_NAME>Capital for Enterprise Ltd</BUYER_GROUP_NAME>
+        <BUYER_GROUP_ID>173</BUYER_GROUP_ID>
+        <SOURCE_SYSTEM>
+          <SOURCE_NAME />
+          <PROVIDER_CONTRACT_ID />
+          <PROVIDER_CONTRACT_URL />
+          <PUBLISHED_ON_SOURCE_DATE>
+            <DAY />
+            <MONTH />
+            <YEAR />
+          </PUBLISHED_ON_SOURCE_DATE>
+          <PARENT_PROVIDER_CONTRACT_ID />
+        </SOURCE_SYSTEM>
+        <SYSTEM_ADDITIONAL>
+          <DELIVERY_LOCATION>
+            <TOWN></TOWN>
+            <COUNTY></COUNTY>
+            <COUNTRY>UK</COUNTRY>
+            <POSTAL_CODE></POSTAL_CODE>
+          </DELIVERY_LOCATION>
+          <OTHER_LANGUAGE_FIELDS>
+            <OTHER_LANGUAGE_VALUE>CY</OTHER_LANGUAGE_VALUE>
+            <TITLE_CONTRACT></TITLE_CONTRACT>
+            <SHORT_CONTRACT_DESCRIPTION></SHORT_CONTRACT_DESCRIPTION>
+            <REASON_FOR_REPLACEMENT_OR_RETRACTION></REASON_FOR_REPLACEMENT_OR_RETRACTION>
+            <LOCATION_ADDITIONAL_FREE_TEXT></LOCATION_ADDITIONAL_FREE_TEXT>
+            <CRITERIA_DEFINITION />
+            <HOW_TO_APPLY></HOW_TO_APPLY>
+          </OTHER_LANGUAGE_FIELDS>
+        </SYSTEM_ADDITIONAL>
+      </SYSTEM>
+    </CONTRACT_AWARD>
+  </NOTICES>
+</FEED>
