@@ -9,7 +9,7 @@ describe Award do
   end
 
   describe ".parse" do
-    set(:file) { CfExtract::NoticesFile.new(test_file_name('notices_2011_01.xml')) }
+    set(:file) { CfExtract::NoticesFile.new(read_test_file('notices_2011_01.xml')) }
 
     subject { Award.parse(file.real_award_nodes.first) }
 

@@ -2,7 +2,7 @@ require "spec_helper"
 
 describe CfExtract::NoticesFile do
   describe ".new" do
-    set(:file) { CfExtract::NoticesFile.new(test_file_name('notices_2011_01.xml')) }
+    set(:file) { CfExtract::NoticesFile.new(read_test_file('notices_2011_01.xml')) }
 
     describe "The awards" do
       subject { file.awards }

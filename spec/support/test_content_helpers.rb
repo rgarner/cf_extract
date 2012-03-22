@@ -2,10 +2,10 @@ module TestContentHelpers
   @@files = {}
 
   def mock_http_response(file_name)
-    mock_response = mock('Net::HTTPResponse')
-    mock_response.stubs(:body => read_test_file(file_name), :header => '', :success? => true)
-    Net::HTTP.stubs(:start).with('www.businesslink.gov.uk', 80).returns(mock_response)
-    mock_response
+    mock('Net::HTTPResponse').tap do |response|
+      response.stubs(:body => read_test_file(file_name), :header => '', :success? => true, :redirect? => false)
+      Net::HTTP.any_instance.stubs(:start).returns(response)
+    end
   end
 
   def test_file_name(file_name)

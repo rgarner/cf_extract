@@ -1,0 +1,518 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="ctl01_Head1"><title>
+	Data feeds and downloadable reports
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta name="CODE_LANGUAGE" content="C#" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><link href="/default.css" rel="stylesheet" />
+
+
+    <script type="text/javascript" src='/js/jQuery/thirdparty/v_634674096640000000jquery-1.4.2.min.js'></script>
+    <script type="text/javascript" src='/js/jQuery/thirdparty/v_634674096660000000jquery-ui-1.8.4.min.js'></script>
+
+    
+    <link type="text/css" href='/css/v_634674096680000000all-css-min.css' rel="Stylesheet" />
+    <script type="text/javascript" src='/js/v_634674096660000000all-js-min.js' ></script>
+    <link id="ctl01__lnkCSS" type="text/css" href="/css/1000/style.css" rel="Stylesheet" />        
+    <!--[if IE]>
+	    <link type="text/css" href="/css/core-IE.css" rel="Stylesheet" />
+    <![endif]--> 
+
+    <!--[if IE 7]>
+	    <link type="text/css" href="/css/core-IE7.css" rel="Stylesheet" />
+    <![endif]-->
+
+    <!--[if IE 6]>
+	    <link type="text/css" href="/css/core-IE6.css" rel="Stylesheet" />
+    <![endif]-->
+
+    <!--[if IE]>
+	    <link id="ctl01_lnkIE" type="text/css" href="/css/1000/ie.css" rel="Stylesheet" />
+    <![endif]-->
+
+    <!--[if IE 6]>
+	    <link id="ctl01_lnkIE6" type="text/css" href="/css/1000/ie6.css" rel="Stylesheet" />
+    <![endif]-->
+
+    <!-- DYNAMIC PNG FIX for IE6 -->
+    <!--[if IE 6]>
+    <script type="text/javascript" src="/js/jQuery/thirdparty/jquery.pngfix.min.js"></script>
+    <![endif]-->
+
+	<!-- CUFON -->
+    <script type="text/javascript" src='/js/jQuery/thirdparty/v_634674096660000000cufon.js' ></script>
+    <script type="text/javascript" src='/js/jQuery/thirdparty/v_634674096700000000cufon.din-medium.font.js' ></script>
+
+    <script type="text/javascript" src='/js/jQuery/core/v_634674096660000000jquery-datepicker.eng.js' ></script> 
+
+    <script type="text/javascript">
+        Cufon.replace('h1, h2.cufon, h3.cufon, #panel-cta h3, .search-block h3, #panel-welcome ul li, #panel-welcome h2, #panel-search label', { fontFamily: 'din-medium 500', hover: true });            
+	</script>
+
+    <link id="ctl01__lnkShortcutIcon" rel="shortcut icon" href="/images/1000/favicon.ico" type="image/x-icon" /><link id="ctl01__lnkIcon" rel="icon" href="/images/1000/favicon.ico" type="image/x-icon" /></head>
+
+
+<body>
+    <form name="mainForm" method="post" action="/data-feed.aspx?site=1000&amp;lang=en" id="mainForm" class="theForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0ODMxMzUzOTYPZBYEAgEPZBYCZg9kFgJmD2QWDgIHDxYCHgdWaXNpYmxlaGQCCA8WAh8AZ2QCCQ8WAh4EaHJlZgUTL2Nzcy8xMDAwL3N0eWxlLmNzc2QCDQ8WAh8BBRAvY3NzLzEwMDAvaWUuY3NzZAIODxYCHwEFES9jc3MvMTAwMC9pZTYuY3NzZAIPDxYCHwEFGC9pbWFnZXMvMTAwMC9mYXZpY29uLmljb2QCEA8WAh8BBRgvaW1hZ2VzLzEwMDAvZmF2aWNvbi5pY29kAgMQZGQWCAIDD2QWAmYPZBYSZg8WAh8AZxYCZg8WAh4EVGV4dAUDTFJBZAICDw8WBh4LTmF2aWdhdGVVcmwFmwFodHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjgwL0NvbW1vbi9CdXNpbmVzcyUyMExpbmslMjBTdGF0JTIwUmVkaXJlY3QuYXNweD9zaXRlPTEwMDAmbGFuZz1lbiZpZD17MjUwMDUxMjYtQUIzOS00RjQyLUEzNTQtMTRDNEVCMkNFRjY3fR8CBSNCdXNpbmVzcyBHYXRld2F5IC0gQ29udHJhY3RzIEZpbmRlch4ISW1hZ2VVcmxlZGQCBA8PFgYfAwVEaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51azo4MC8/c2l0ZT0xMDAwJmxhbmc9ZW4fAgUQQ29udHJhY3RzIEZpbmRlch8EZWRkAgYPFgIfAGhkAggPFgIeC18hSXRlbUNvdW50ZmQCDA9kFgICAQ8PFgYfAwWbAmh0dHBzOi8vb25saW5lLmJ1c2luZXNzbGluay5nb3YudWsvYmRvdGcvYWN0aW9uL3Nzb1JlZGlyZWN0P3NpdGU9MTAwMCZ0YXJnZXQ9aHR0cHMlM2ElMmYlMmZvbmxpbmUuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWslMmZMb2dpbkhhbmRsZXIuYXNoeCUzZmRlc3QlM2RodHRwcyUyNTNhJTI1MmYlMjUyZm9ubGluZS5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51ayUyNTJmJTI1MmZkYXRhLWZlZWQuYXNweCUyNTNmc2l0ZSUyNTNkMTAwMCUyNTI2bGFuZyUyNTNkZW4fAgUQTG9naW4gfCBSZWdpc3Rlch8EZWRkAg4PZBYCAgEPFgIfAgUIV2VsY29tZSBkAhAPFgIfBQIHFg4CAQ9kFgICAQ9kFgICAQ8PFgIfAwVEaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51azo4MC8/c2l0ZT0xMDAwJmxhbmc9ZW4WAh4FdGl0bGUFB1dlbGNvbWUWAgIBDxYCHwIFB1dlbGNvbWVkAgIPZBYCAgEPZBYCAgEPDxYCHwMFWmh0dHBzOi8vb25saW5lLmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjQ0My9NeSUyMFByb2ZpbGUuYXNweD9zaXRlPTEwMDAmbGFuZz1lbhYCHwYFCk15IHByb2ZpbGUWAgIBDxYCHwIFCk15IHByb2ZpbGVkAgMPZBYCAgEPZBYCAgEPDxYEHwMFYWh0dHBzOi8vb25saW5lLmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjQ0My9CdXllcnMvTXklMjBOb3RpY2VzLmFzcHg/c2l0ZT0xMDAwJmxhbmc9ZW4fAGgWAh8GBQpNeSBub3RpY2VzFgICAQ8WAh8CBQpNeSBub3RpY2VzZAIED2QWAgIBD2QWAgIBDw8WAh8DBVtodHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjgwL1NlYXJjaCUyMENvbnRyYWN0cy5hc3B4P3NpdGU9MTAwMCZsYW5nPWVuFgIfBgUPQWR2YW5jZWQgc2VhcmNoFgICAQ8WAh8CBQ9BZHZhbmNlZCBzZWFyY2hkAgUPZBYCAgEPZBYCAgEPDxYCHwMFZ2h0dHBzOi8vb25saW5lLmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjQ0My9Db21tb24vU2VhcmNoJTIwU3VwcGxpZXJzLmFzcHg/c2l0ZT0xMDAwJmxhbmc9ZW4WAh8GBQ5GaW5kIHN1cHBsaWVycxYCAgEPFgIfAgUORmluZCBzdXBwbGllcnNkAgYPZBYCAgEPZBYCAgEPDxYCHwMFZGh0dHBzOi8vb25saW5lLmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjQ0My9Db21tb24vU2VhcmNoJTIwQnV5ZXJzLmFzcHg/c2l0ZT0xMDAwJmxhbmc9ZW4WAh8GBQtGaW5kIGJ1eWVycxYCAgEPFgIfAgULRmluZCBidXllcnNkAgcPZBYCAgEPZBYCAgEPDxYCHwMFmwFodHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjgwL0NvbW1vbi9CdXNpbmVzcyUyMExpbmslMjBTdGF0JTIwUmVkaXJlY3QuYXNweD9zaXRlPTEwMDAmbGFuZz1lbiZpZD17RjNFOTMzNEYtNDRCMy00MDkzLUFGMTctMUJGMzlDQ0QxQUY4fRYCHwYFEkhlbHAgYW5kIHJlc291cmNlcxYCAgEPFgIfAgUSSGVscCBhbmQgcmVzb3VyY2VzZAISD2QWBAIBDxYCHwIFEENvbnRyYWN0cyBGaW5kZXJkAgcPFgIfAgUKRGF0YSBmZWVkc2QCBw9kFgJmD2QWAmYPZBYEAgUPZBYCAgUPFgIfBQICFgQCAQ9kFgICAQ8PFggfAgUVTUlTX0VYVF9OT1RJQ0VfU1VNXzAxHwMFZGh0dHA6Ly93d3cuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWsvcHVibGljX2ZpbGVzL1JlcG9ydHMvTm90U2V0L01JU19FWFRfTk9USUNFX1NVTV8wMS5jc3YeCENzc0NsYXNzBQxmaWxldHlwZS1jc3YeBF8hU0ICAmRkAgIPZBYCAgEPDxYIHwIFFU1JU19FWFRfQlVZRVJfTElTVF8wMR8DBWRodHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrL3B1YmxpY19maWxlcy9SZXBvcnRzL05vdFNldC9NSVNfRVhUX0JVWUVSX0xJU1RfMDEuY3N2HwcFDGZpbGV0eXBlLWNzdh8IAgJkZAIjDxYCHwUCBhYMAgEPZBYEAgEPDxYIHwIFCEZlYi0yMDEyHwMFX2h0dHA6Ly93d3cuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWsvcHVibGljX2ZpbGVzL05vdGljZXMvTW9udGhseS9ub3RpY2VzXzIwMTJfMDIueG1sHwcFDGZpbGV0eXBlLXhtbB8IAgJkZAIDDw8WCB8CBQhGZWItMjAxMh8DBV9odHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrL3B1YmxpY19maWxlcy9Ob3RpY2VzL01vbnRobHkvbm90aWNlc18yMDEyXzAyLmNzdh8HBQxmaWxldHlwZS1jc3YfCAICZGQCAg9kFgQCAQ8PFggfAgUISmFuLTIwMTIfAwVfaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51ay9wdWJsaWNfZmlsZXMvTm90aWNlcy9Nb250aGx5L25vdGljZXNfMjAxMl8wMS54bWwfBwUMZmlsZXR5cGUteG1sHwgCAmRkAgMPDxYIHwIFCEphbi0yMDEyHwMFX2h0dHA6Ly93d3cuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWsvcHVibGljX2ZpbGVzL05vdGljZXMvTW9udGhseS9ub3RpY2VzXzIwMTJfMDEuY3N2HwcFDGZpbGV0eXBlLWNzdh8IAgJkZAIDD2QWBAIBDw8WCB8CBQhEZWMtMjAxMR8DBV9odHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrL3B1YmxpY19maWxlcy9Ob3RpY2VzL01vbnRobHkvbm90aWNlc18yMDExXzEyLnhtbB8HBQxmaWxldHlwZS14bWwfCAICZGQCAw8PFggfAgUIRGVjLTIwMTEfAwVfaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51ay9wdWJsaWNfZmlsZXMvTm90aWNlcy9Nb250aGx5L25vdGljZXNfMjAxMV8xMi5jc3YfBwUMZmlsZXR5cGUtY3N2HwgCAmRkAgQPZBYEAgEPDxYIHwIFCE5vdi0yMDExHwMFX2h0dHA6Ly93d3cuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWsvcHVibGljX2ZpbGVzL05vdGljZXMvTW9udGhseS9ub3RpY2VzXzIwMTFfMTEueG1sHwcFDGZpbGV0eXBlLXhtbB8IAgJkZAIDDw8WCB8CBQhOb3YtMjAxMR8DBV9odHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrL3B1YmxpY19maWxlcy9Ob3RpY2VzL01vbnRobHkvbm90aWNlc18yMDExXzExLmNzdh8HBQxmaWxldHlwZS1jc3YfCAICZGQCBQ9kFgQCAQ8PFggfAgUIRmViLTIwMTEfAwVfaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51ay9wdWJsaWNfZmlsZXMvTm90aWNlcy9Nb250aGx5L25vdGljZXNfMjAxMV8wMi54bWwfBwUMZmlsZXR5cGUteG1sHwgCAmRkAgMPDxYIHwIFCEZlYi0yMDExHwMFX2h0dHA6Ly93d3cuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWsvcHVibGljX2ZpbGVzL05vdGljZXMvTW9udGhseS9ub3RpY2VzXzIwMTFfMDIuY3N2HwcFDGZpbGV0eXBlLWNzdh8IAgJkZAIGD2QWBAIBDw8WCB8CBQhKYW4tMjAxMR8DBV9odHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrL3B1YmxpY19maWxlcy9Ob3RpY2VzL01vbnRobHkvbm90aWNlc18yMDExXzAxLnhtbB8HBQxmaWxldHlwZS14bWwfCAICZGQCAw8PFggfAgUISmFuLTIwMTEfAwVfaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51ay9wdWJsaWNfZmlsZXMvTm90aWNlcy9Nb250aGx5L25vdGljZXNfMjAxMV8wMS5jc3YfBwUMZmlsZXR5cGUtY3N2HwgCAmRkAgsPZBYCZg9kFgYCAQ8WAh8FAggWEAIBD2QWAgIBDw8WBB8CBQdTaXRlbWFwHwMFUGh0dHA6Ly93d3cuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWs6ODAvU2l0ZW1hcC5hc3B4P3NpdGU9MTAwMCZsYW5nPWVuFgIfBgUHU2l0ZW1hcGQCAw9kFgICAQ8PFgQfAgUIRmVlZGJhY2sfAwWbAWh0dHA6Ly93d3cuY29udHJhY3RzZmluZGVyLmJ1c2luZXNzbGluay5nb3YudWs6ODAvQ29tbW9uL0J1c2luZXNzJTIwTGluayUyMFN0YXQlMjBSZWRpcmVjdC5hc3B4P3NpdGU9MTAwMCZsYW5nPWVuJmlkPXs3NDYxRjA0Ni1GQkU2LTRFNzItODlCRS0zNzAxNDdDOUM1NjV9FgIfBgUIRmVlZGJhY2tkAgUPZBYCAgEPDxYEHwIFCUNvcHlyaWdodB8DBZsBaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51azo4MC9Db21tb24vQnVzaW5lc3MlMjBMaW5rJTIwU3RhdCUyMFJlZGlyZWN0LmFzcHg/c2l0ZT0xMDAwJmxhbmc9ZW4maWQ9ezBBMzNENjE0LTBFOEItNDc4QS04ODdCLTA0NTIyMDRDRkFDRH0WAh8GBQlDb3B5cmlnaHRkAgcPZBYCAgEPDxYEHwIFFFRlcm1zIGFuZCBDb25kaXRpb25zHwMFmwFodHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjgwL0NvbW1vbi9CdXNpbmVzcyUyMExpbmslMjBTdGF0JTIwUmVkaXJlY3QuYXNweD9zaXRlPTEwMDAmbGFuZz1lbiZpZD17NkJFNkIxMkYtQjUwQy00Mzc1LUEzRkYtQzkzODc5MzVERkU5fRYCHwYFFFRlcm1zIGFuZCBDb25kaXRpb25zZAIJD2QWAgIBDw8WBB8CBQ5Qcml2YWN5IFBvbGljeR8DBZsBaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51azo4MC9Db21tb24vQnVzaW5lc3MlMjBMaW5rJTIwU3RhdCUyMFJlZGlyZWN0LmFzcHg/c2l0ZT0xMDAwJmxhbmc9ZW4maWQ9ezNCRDFFNzBCLTg0RUUtNDlDQy05ODM4LUU2N0FFMDk3QzEyQ30WAh8GBQ5Qcml2YWN5IFBvbGljeWQCCw9kFgICAQ8PFgQfAgUNQWNjZXNzaWJpbGl0eR8DBZsBaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51azo4MC9Db21tb24vQnVzaW5lc3MlMjBMaW5rJTIwU3RhdCUyMFJlZGlyZWN0LmFzcHg/c2l0ZT0xMDAwJmxhbmc9ZW4maWQ9ezZCMzZBRTNBLUQ0OTktNDk2NS1CN0JELTAzMEY2M0E1NDU5Rn0WAh8GBQ1BY2Nlc3NpYmlsaXR5ZAIND2QWAgIBDw8WBB8CBRNIZWxwIHdpdGggUERGIGZpbGVzHwMFmwFodHRwOi8vd3d3LmNvbnRyYWN0c2ZpbmRlci5idXNpbmVzc2xpbmsuZ292LnVrOjgwL0NvbW1vbi9CdXNpbmVzcyUyMExpbmslMjBTdGF0JTIwUmVkaXJlY3QuYXNweD9zaXRlPTEwMDAmbGFuZz1lbiZpZD17M0I1NzVFNUUtNzk4Ni00NzFGLTk4MTYtOTUxREY1RkUwODFDfRYCHwYFE0hlbHAgd2l0aCBQREYgZmlsZXNkAg8PZBYCAgEPDxYEHwIFCkRhdGEgZmVlZHMfAwVSaHR0cDovL3d3dy5jb250cmFjdHNmaW5kZXIuYnVzaW5lc3NsaW5rLmdvdi51azo4MC9kYXRhLWZlZWQuYXNweD9zaXRlPTEwMDAmbGFuZz1lbhYCHwYFCkRhdGEgZmVlZHNkAgMPDxYCHwBoZGQCBQ8PFgIfAGhkZAIND2QWAmYPFgIfAGhkZEm3QYnH5G1PBq2OlLYncWOAEWll" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['mainForm'];
+if (!theForm) {
+    theForm = document.mainForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=8FzpssBYpy1dKrn5r6KYXszQk2xPnZIX8fWLXTF7LXxub4QlC5qhvO7FhnkccjB6g1xrhzrQJCMMrJRPNATlhJlkhk81&amp;t=634210400576316535" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=sGaJubJDVjehPmuvGAf_jnwcBoqyPfb00Q3TVR8n2yQRLuzWA-Nb2VoeHXy5OJhR2yw1sn2EnGoZp2O8f37ucGED6IdjX9cV5d9WCi1erxewqd5mTGzuPep1cu6AhIk4swA0zLUf066fxe0zHpSkm5XSQK41&amp;t=ffffffffd4022f59" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jtvg1p-4VOnTkaclWdV9GzdadVcP3Bq0U5Ne533W6ODX2XkavMrrhmzN7mdMhv7AAfSjDQM6BOxOKXeXkuJs4VrecC5-wgOi5aKN1WRJ2qq3dFObOU_me0vXt2NY1qxBvOhCQ6_dRWRk-8y1tk5WqYT0A--XgK6L9_MZ4fsbQF7XSaDH0&amp;t=ffffffffd4022f59" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sctManager', document.getElementById('mainForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+        
+        <div id="wrapper">
+        <a name="toppage" id="toppage"></a> 
+            
+    <script type="text/javascript">
+        $jq(document).ready(function () {
+            var cookieName = "LRA";
+            CheckForLoggedInCookie(cookieName, 'https://online.contractsfinder.businesslink.gov.uk:443/data-feed.aspx?site=1000&lang=en');
+        });
+    </script>
+
+<div id="header-wrapper">
+    <div id="header">
+        <a id="ctl03_hypLogo" class="logo" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={25005126-AB39-4F42-A354-14C4EB2CEF67}">Business Gateway - Contracts Finder</a>
+
+        <a id="ctl03_hypPortal" class="logo-contractfinder" href="http://www.contractsfinder.businesslink.gov.uk:80/?site=1000&amp;lang=en">Contracts Finder</a>
+
+        <div id="panel-control">
+            
+            <div id="contactus">
+                
+            </div>
+            
+            
+            <div id="loginregister">
+                <span class="bg-l"></span>
+                <span class="bg">
+                    <a id="ctl03_hypLoginRegister" href="https://online.businesslink.gov.uk/bdotg/action/ssoRedirect?site=1000&amp;target=https%3a%2f%2fonline.contractsfinder.businesslink.gov.uk%2fLoginHandler.ashx%3fdest%3dhttps%253a%252f%252fonline.contractsfinder.businesslink.gov.uk%252f%252fdata-feed.aspx%253fsite%253d1000%2526lang%253den">Login | Register</a>
+                </span>
+                <span class="bg-r"></span>
+            </div>
+            
+                            
+        </div>
+        
+
+        
+                <ul id="topmenu">
+            
+                <li id="ctl03_rptMainMenu_ctl01_litItem">
+                    <a id="ctl03_rptMainMenu_ctl01_hypItem" title="Welcome" href="http://www.contractsfinder.businesslink.gov.uk:80/?site=1000&amp;lang=en">
+                        <span class="bg-l"></span><span class="bg">
+                            Welcome</span> <span class="bg-r"></span>
+                    </a>
+                </li>
+            
+                <li id="ctl03_rptMainMenu_ctl02_litItem">
+                    <a id="ctl03_rptMainMenu_ctl02_hypItem" title="My profile" href="https://online.contractsfinder.businesslink.gov.uk:443/My%20Profile.aspx?site=1000&amp;lang=en">
+                        <span class="bg-l"></span><span class="bg">
+                            My profile</span> <span class="bg-r"></span>
+                    </a>
+                </li>
+            
+                <li id="ctl03_rptMainMenu_ctl03_litItem">
+                    
+                </li>
+            
+                <li id="ctl03_rptMainMenu_ctl04_litItem">
+                    <a id="ctl03_rptMainMenu_ctl04_hypItem" title="Advanced search" href="http://www.contractsfinder.businesslink.gov.uk:80/Search%20Contracts.aspx?site=1000&amp;lang=en">
+                        <span class="bg-l"></span><span class="bg">
+                            Advanced search</span> <span class="bg-r"></span>
+                    </a>
+                </li>
+            
+                <li id="ctl03_rptMainMenu_ctl05_litItem">
+                    <a id="ctl03_rptMainMenu_ctl05_hypItem" title="Find suppliers" href="https://online.contractsfinder.businesslink.gov.uk:443/Common/Search%20Suppliers.aspx?site=1000&amp;lang=en">
+                        <span class="bg-l"></span><span class="bg">
+                            Find suppliers</span> <span class="bg-r"></span>
+                    </a>
+                </li>
+            
+                <li id="ctl03_rptMainMenu_ctl06_litItem">
+                    <a id="ctl03_rptMainMenu_ctl06_hypItem" title="Find buyers" href="https://online.contractsfinder.businesslink.gov.uk:443/Common/Search%20Buyers.aspx?site=1000&amp;lang=en">
+                        <span class="bg-l"></span><span class="bg">
+                            Find buyers</span> <span class="bg-r"></span>
+                    </a>
+                </li>
+            
+                <li id="ctl03_rptMainMenu_ctl07_litItem">
+                    <a id="ctl03_rptMainMenu_ctl07_hypItem" title="Help and resources" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={F3E9334F-44B3-4093-AF17-1BF39CCD1AF8}">
+                        <span class="bg-l"></span><span class="bg">
+                            Help and resources</span> <span class="bg-r"></span>
+                    </a>
+                </li>
+            
+                </ul>
+            
+    </div>
+    
+</div>
+
+
+
+<div id="breadcrumb-wrapper">
+    Contracts Finder
+    
+     &gt; Data feeds
+</div>
+
+<br />
+
+            
+            <div id="content">
+            
+<div id="downloads-page">
+    <h1>
+        Data feeds and downloadable reports
+    </h1>
+    <div class="body-content">
+        
+		<p>There are several ways to access Contracts Finder data: You can download weekly activity reports, subscribe to RSS feeds, or access recent and historic data in XML or Comma Separated Values (CSV) formats. </p>
+    <p>You can also <a href="~/media/Files/Contracts Finder Data Feed Developer Guide.ashx" target="_blank">download the Contracts Finder data feed developer guide (PDF)</a>.</p>
+    <p>Terms and conditions apply to the use of this data. See the bottom of this page for details </p>
+    </div>
+    
+        <fieldset class="full corners-all jq">
+            <legend class="corners-top"><span>
+                Activity summary and buyer group list
+            </span></legend>
+            <div class="inner">
+                <div>
+                    
+		<p>
+    </p>
+    <div style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px; width: 100%; height: 100%; background-image: none; word-wrap: break-word; ">
+      <p>You can download a report giving a high-level view of procurement activity for all government departments and agencies that have published notices. It shows the total number of tender document summaries, contract document summaries and live opportunities published so far by each organisation.</p>
+      <p>A list of buyer groups registered on Contracts Finder is also available.</p>
+      <p>Both documents are updated weekly. They are in CSV format which can be opened as a spreadsheet or a simple text file.</p>
+    </div>
+    <p>
+    </p>
+                </div>
+                
+                    
+                        <div>
+                            <div>
+                                <a id="pagecontent_0_rptReportDownloads_ctl01_lnkFile" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Reports/NotSet/MIS_EXT_NOTICE_SUM_01.csv">MIS_EXT_NOTICE_SUM_01</a>
+                            </div>
+                        </div>
+                    
+                        <div>
+                            <div>
+                                <a id="pagecontent_0_rptReportDownloads_ctl02_lnkFile" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Reports/NotSet/MIS_EXT_BUYER_LIST_01.csv">MIS_EXT_BUYER_LIST_01</a>
+                            </div>
+                        </div>
+                    
+                    
+                <div>
+                    
+		<p>
+      <br />
+    </p>
+
+                </div>
+            </div>
+        </fieldset>
+    
+    <fieldset class="full corners-all jq">
+        <legend class="corners-top"><span>
+            RSS feeds
+        </span></legend>
+        <div class="inner">
+            <div>
+                You can subscribe to the following Contracts Finder RSS feeds. The feeds contain data for the past 90 days. They are updated every hour, and can be viewed in your web browser or news reader. <a title="RSS feeds explained, and how you can use them" href="http://office.microsoft.com/en-us/outlook-help/introduction-to-rss-HA001230463.aspx" target="_blank">Read an introduction to RSS feeds (external link)</a>.
+            </div>
+            <div>
+                <a href="public_files/Notices/Rss/notices_live_opportunities.xml" class="filetype-rss">
+                    Live opportunities
+                </a><a href="public_files/Notices/Rss/notices_transparency.xml" class="filetype-rss">
+                    Published tender and contract documentation for the government transparency commitment
+                </a>
+            </div>
+            <div>
+                <a href="public_files/Notices/Rss/notices_below_ojeu.xml" class="filetype-rss">
+                    All public sector below OJEU threshold contracts and notices
+                </a><a href="public_files/Notices/Rss/notices_sub_contract.xml" class="filetype-rss">
+                    All private sector sub contract opportunities, contracts and notices 
+                </a>
+            </div>
+            <div>
+            </div>
+            <div>
+                
+		<p>
+      <br />
+    </p>
+
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="full corners-all jq">
+        <legend class="corners-top"><span>
+            Detailed reports - recent notices
+        </span></legend>
+        <div class="inner">
+            <div>
+                
+		<p>
+    </p>
+    <div style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px; width: 100%; height: 100%; background-image: none; word-wrap: break-word; ">
+      <p>Detailed contract information is available in XML and CSV formats. These are updated every night and contain data for the 40 days prior to today’s date.</p>
+      <p>The CSV version includes - for each notice - its title and brief description, the name of the buying organisation and the contract value. The machine-readable XML document contains additional data for each notice, including CPV codes.</p>
+    </div>
+    <p>
+    </p>
+            </div>
+            <div>
+                <a href="public_files/Notices/Recent/notices.xml" class="filetype-xml">
+                    Detailed report - recent notices (XML)
+                </a>
+            </div>
+            <div>
+                <a href="public_files/Notices/Recent/notices.csv" class="filetype-csv">
+                    Detailed report - recent notices (CSV)
+                </a>
+            </div>
+            <div>
+                
+		<p>
+      <br />
+    </p>
+
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="full corners-all jq">
+        <legend class="corners-top"><span>
+            Detailed reports - older notices
+        </span></legend>
+        <div class="inner">
+            <div>
+                
+		<p>
+    </p>
+    <div style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px; width: 100%; height: 100%; background-image: none; word-wrap: break-word; ">
+      <p>Each month a snapshot is taken of the recent notices, and published in the list below.  They are in XML and CSV format and contain the information in the same form as the recent notices data.</p>
+    </div>
+    <p>
+    </p>
+            </div>
+            
+                
+                    <div>
+                        <div>
+                            <a id="pagecontent_0_rptOlderNotices_ctl01_lnkXML" class="filetype-xml" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2012_02.xml">Feb-2012</a>
+                            <a id="pagecontent_0_rptOlderNotices_ctl01_lnkCSV" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2012_02.csv">Feb-2012</a>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div>
+                            <a id="pagecontent_0_rptOlderNotices_ctl02_lnkXML" class="filetype-xml" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2012_01.xml">Jan-2012</a>
+                            <a id="pagecontent_0_rptOlderNotices_ctl02_lnkCSV" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2012_01.csv">Jan-2012</a>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div>
+                            <a id="pagecontent_0_rptOlderNotices_ctl03_lnkXML" class="filetype-xml" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_12.xml">Dec-2011</a>
+                            <a id="pagecontent_0_rptOlderNotices_ctl03_lnkCSV" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_12.csv">Dec-2011</a>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div>
+                            <a id="pagecontent_0_rptOlderNotices_ctl04_lnkXML" class="filetype-xml" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_11.xml">Nov-2011</a>
+                            <a id="pagecontent_0_rptOlderNotices_ctl04_lnkCSV" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_11.csv">Nov-2011</a>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div>
+                            <a id="pagecontent_0_rptOlderNotices_ctl05_lnkXML" class="filetype-xml" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_02.xml">Feb-2011</a>
+                            <a id="pagecontent_0_rptOlderNotices_ctl05_lnkCSV" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_02.csv">Feb-2011</a>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div>
+                            <a id="pagecontent_0_rptOlderNotices_ctl06_lnkXML" class="filetype-xml" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_01.xml">Jan-2011</a>
+                            <a id="pagecontent_0_rptOlderNotices_ctl06_lnkCSV" class="filetype-csv" href="http://www.contractsfinder.businesslink.gov.uk/public_files/Notices/Monthly/notices_2011_01.csv">Jan-2011</a>
+                        </div>
+                    </div>
+                
+                
+            <div>
+                
+		<p>
+      <br />
+    </p>
+
+            </div>
+        </div>
+    </fieldset>
+    <fieldset class="full corners-all jq">
+        <legend class="corners-top"><span>
+            Terms and conditions
+        </span></legend>
+        <div class="inner">
+            <div>
+                
+		<div style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 3px; padding-right: 3px; padding-bottom: 3px; padding-left: 3px; width: 100%; height: 100%; background-image: none; word-wrap: break-word; ">
+      <p>The data published is Crown copyright unless it is marked as third party copyright.  Where the data is Crown copyright it will be assumed to be available under the terms of the Open Government Licence (OGL) unless it is marked as either:</p>
+      <ul>
+        <li>Value added material</li>
+        <li>Material licensed by a Crown organisation under a delegation from the Controller of HM Stationery Office (HMSO)  </li>
+      </ul>
+      <p>You can use Crown Copyright data available under the OGL in your own information applications so long as you comply with the standard OGL terms and conditions. If the Crown copyright data is not available under the OGL you must comply with the licence terms and condition which are identified as being applicable to that data.</p>
+      <p>If the data published is marked as third party copyright you have no right to copy or reuse that data without first seeking permission from the copyright owner.</p>
+      <p>
+        <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/" shape="rect">OGL terms and conditions (National Archives website)</a>
+      </p>
+    </div>
+
+            </div>
+        </div>
+    </fieldset>
+    <div>
+    </div>
+</div>
+
+            <div class="clearing"></div>
+            </div>
+            
+             
+        </div>
+        
+
+<div id="footer-wrapper">
+    <div id="footer">
+    
+            <ul id="footerlinks">
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl01_hypItem" title="Sitemap" href="http://www.contractsfinder.businesslink.gov.uk:80/Sitemap.aspx?site=1000&amp;lang=en">Sitemap</a>
+        | 
+            </li>
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl03_hypItem" title="Feedback" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={7461F046-FBE6-4E72-89BE-370147C9C565}">Feedback</a>
+        | 
+            </li>
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl05_hypItem" title="Copyright" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={0A33D614-0E8B-478A-887B-0452204CFACD}">Copyright</a>
+        | 
+            </li>
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl07_hypItem" title="Terms and Conditions" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={6BE6B12F-B50C-4375-A3FF-C9387935DFE9}">Terms and Conditions</a>
+        | 
+            </li>
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl09_hypItem" title="Privacy Policy" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={3BD1E70B-84EE-49CC-9838-E67AE097C12C}">Privacy Policy</a>
+        | 
+            </li>
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl11_hypItem" title="Accessibility" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={6B36AE3A-D499-4965-B7BD-030F63A5459F}">Accessibility</a>
+        | 
+            </li>
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl13_hypItem" title="Help with PDF files" href="http://www.contractsfinder.businesslink.gov.uk:80/Common/Business%20Link%20Stat%20Redirect.aspx?site=1000&amp;lang=en&amp;id={3B575E5E-7986-471F-9816-951DF5FE081C}">Help with PDF files</a>
+        | 
+            </li>
+        
+            <li>
+                <a id="ctl05_rptFooterMenu_ctl15_hypItem" title="Data feeds" href="http://www.contractsfinder.businesslink.gov.uk:80/data-feed.aspx?site=1000&amp;lang=en">Data feeds</a>
+        
+            </li>
+        </ul>
+        
+    </div>
+</div>
+
+
+
+
+        
+
+    <!-- SiteCatalyst code version: H.22 -->
+    <script type="text/javascript">var s_account="sbsglobal,sbsens,sbsblukgov";
+</script>
+    <script type="text/javascript" src='/js/omniture/h/v_634674096580000000s_code.js'></script>
+    <script type="text/javascript">s.linkInternalFilters="businesslink.gov.uk";
+s.pageName="ENSData feeds and downloadable reports";
+s.prop5="ENS_5be38295-11e9-4af9-96d1-6aee71d16c93";
+s.prop6="bl.gov Home";
+s.prop7="ENS";
+s.prop8="Data feeds and downloadable reports";
+s.hier1="bl.gov Home|ENS|Data feeds and downloadable reports"
+s.eVar4="Logged off";
+</script>    
+    <script type="text/javascript">
+    $jq(document).ready(function () {
+           var s_code=s.t();
+           if (s_code) {
+               document.write(s_code);
+           }
+       });
+    </script>
+    <!-- End SiteCatalyst code version: H.22. -->
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">        Cufon.now();</script>
+</body>
+</html>

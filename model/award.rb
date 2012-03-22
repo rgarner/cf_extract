@@ -2,9 +2,9 @@ class Award
   include DataMapper::Resource
 
   property :id, Serial
-  property :url, String, unique_index: true
-  property :date, DateTime, index: true
-  property :value, Decimal
+  property :url, String, unique_index: true, required: true, length: 255
+  property :date, DateTime, index: true, required: true
+  property :value, Float, required: true
 
   validates_presence_of :url
   validates_uniqueness_of :url

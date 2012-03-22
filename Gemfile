@@ -5,6 +5,7 @@ gem 'dm-mysql-adapter'
 gem 'nokogiri'
 gem 'thor'
 
-group :development do
+group :development, :test do
   gem 'rspec'
+  gem 'mocha'
 end

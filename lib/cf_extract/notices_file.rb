@@ -2,8 +2,8 @@ module CfExtract
   class NoticesFile
     attr_reader :doc
 
-    def initialize(filename)
-      @doc = Nokogiri::XML(File.read(filename).sub('xmlns="http://www.w3.org/2001/XMLSchema"', ''))
+    def initialize(body)
+      @doc = Nokogiri::XML(body.sub('xmlns="http://www.w3.org/2001/XMLSchema"', ''))
     end
 
     def notices

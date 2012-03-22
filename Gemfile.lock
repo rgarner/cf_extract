@@ -55,6 +55,9 @@ GEM
     fastercsv (1.5.4)
     json (1.6.5)
     json_pure (1.6.5)
+    metaclass (0.0.1)
+    mocha (0.10.5)
+      metaclass (~> 0.0.1)
     multi_json (1.0.4)
     nokogiri (1.5.2)
     rspec (2.8.0)
@@ -75,6 +78,7 @@ PLATFORMS
 DEPENDENCIES
   datamapper
   dm-mysql-adapter
+  mocha
   nokogiri
   rspec
   thor
