@@ -1,6 +1,7 @@
 source :rubygems
 
 gem 'sinatra'
+gem 'rack-conneg'
 gem 'datamapper'
 gem 'haml'
 gem 'dm-mysql-adapter'

@@ -17,6 +17,11 @@ describe "Awards by quarter app" do
     it "should have both years" do
       last_response.body.should have_selector(".year", count: 2)
     end
+
+    describe ".json" do
+      before { get '/years.json' }
+      specify { last_response.body.should include('"award_count":1') }
+    end
   end
 
   describe "/years/:year" do

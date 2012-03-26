@@ -43,4 +43,11 @@ describe Award do
     its(:value) { should eql(25460.00) }
     its(:date) { should eql(Date.civil(2010, 11, 29)) }
   end
+
+  describe "#to_json" do
+    subject { award.to_json }
+    it { should include(%("url":"http://somewhere")) }
+    it { should include(%("date":"2011-01-20)) }
+    it { should include(%("value":1000.)) }
+  end
 end

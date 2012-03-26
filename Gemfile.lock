@@ -62,6 +62,8 @@ GEM
     multi_json (1.0.4)
     nokogiri (1.5.2)
     rack (1.4.1)
+    rack-conneg (0.1.5)
+      rack (>= 1.0)
     rack-protection (1.2.0)
       rack
     rack-test (0.6.1)
@@ -98,6 +100,7 @@ DEPENDENCIES
   haml
   mocha
   nokogiri
+  rack-conneg
   rack-test
   rspec
   shotgun
