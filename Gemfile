@@ -1,13 +1,16 @@
 source :rubygems
 
-gem 'sinatra', require: 'sinatra'
+gem 'sinatra'
 gem 'datamapper'
+gem 'haml'
 gem 'dm-mysql-adapter'
 gem 'nokogiri'
 gem 'thor'
 
-group :development, :test do
+group :test do
   gem 'rspec'
+  gem 'rack-test'
+  gem 'webrat'
   gem 'mocha'
 end
 

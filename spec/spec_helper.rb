@@ -5,7 +5,14 @@ ENV['RACK_ENV'] = 'test'
 #noinspection RubyResolve
 Dir[File.join(File.dirname(__FILE__), "support/**/*.rb")].each { |f| require f }
 
-require_relative '../boot.rb'
+require 'rack/test'
+require 'webrat'
+require_relative '../boot'
+require_relative '../application'
+
+Webrat.configure do |config|
+  config.mode = :rack
+end
 
 RSpec.configure do |config|
   config.mock_with :mocha
@@ -26,5 +33,8 @@ RSpec.configure do |config|
     end
   end
 
-  config.include(RSpecExtensions::Set)
+  config.include Rack::Test::Methods
+  config.include Webrat::Methods
+  config.include Webrat::Matchers
+  config.include RSpecExtensions::Set
 end

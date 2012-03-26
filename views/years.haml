@@ -1,0 +1,8 @@
+%h1 Years with awards
+
+- unless @years.empty?
+  %ul.years
+    - @years.each do |year|
+      %li.year
+        %a{href: "/years/#{year.year}"}= "#{year.year}"
+        (#{year.award_count})

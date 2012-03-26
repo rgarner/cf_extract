@@ -1,0 +1,13 @@
+%h1 Awards by quarter for #{params[:year]}
+
+- if @quarters.empty?
+  %p None found.
+- else
+  %ul.quarters
+    - @quarters.each_pair do |quarter, awards|
+      %li.quarter
+        %h2 Q#{quarter}
+        %ul.awards
+          - awards.each do |award|
+            %li.award
+              %a{href: award.url}= award.to_s
